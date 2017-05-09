@@ -15,14 +15,14 @@ public class HomeActivity extends AppCompatActivity{
         actionBar.hide();
     }
 
-    public void buttonOnClick(View v){
+    protected void buttonOnClick(View v){
         switch (v.getId()) {
             case R.id.today:
                 setContentView(R.layout.homescreen);
                 break;
 
             case R.id.tomorrow:
-                //setContentView(R.layout.tomorrow);
+                setContentView(R.layout.tomorrow);
                 break;
 
             case R.id.week:
