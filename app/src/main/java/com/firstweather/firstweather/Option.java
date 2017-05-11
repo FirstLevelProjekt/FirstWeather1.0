@@ -6,18 +6,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class HomeActivity extends AppCompatActivity{
+public class Option extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.homescreen);
+        setContentView(R.layout.option);
 
         ActionBar actionBar = getSupportActionBar();
         assert actionBar != null;
         actionBar.hide();
     }
-
 
     public void buttonOnClick(View view) {
 
@@ -25,23 +24,13 @@ public class HomeActivity extends AppCompatActivity{
 
         switch (view.getId()) {
 
-            case R.id.tomorrow:
-                intent = new Intent(HomeActivity.this, TomorrowActivity.class);
-                startActivity(intent);
-                break;
-
-            case R.id.week:
-                intent = new Intent(HomeActivity.this, Week.class);
-                startActivity(intent);
-                break;
-
-            case R.id.options:
-                intent = new Intent(HomeActivity.this, Option.class);
+            case R.id.optionsBack:
+                intent = new Intent(Option.this, HomeActivity.class );
                 startActivity(intent);
                 break;
 
             case R.id.city:
-                intent = new Intent(HomeActivity.this, City.class );
+                intent = new Intent(Option.this, City.class );
                 startActivity(intent);
                 break;
 
@@ -49,4 +38,3 @@ public class HomeActivity extends AppCompatActivity{
     }
 
 }
-

@@ -20,6 +20,22 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".TomorrowActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".City"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Location"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Option"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".Week"
+            android:screenOrientation="portrait"/>
+
+
     </application>
 
 </manifest>
