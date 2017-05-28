@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\kaczmar\\AndroidStudioProjects\\FirstWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\kaczmar\\.android\\build-cache\\57df61d676352b75fe437a3a901146e7bbcb2731\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaczmar\\AndroidStudioProjects\\FirstWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\kaczmar\\.android\\build-cache\\57df61d676352b75fe437a3a901146e7bbcb2731\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaczmar\\AndroidStudioProjects\\FirstWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\kaczmar\\.android\\build-cache\\57df61d676352b75fe437a3a901146e7bbcb2731\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaczmar\\AndroidStudioProjects\\FirstWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\kaczmar\\.android\\build-cache\\57df61d676352b75fe437a3a901146e7bbcb2731\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaczmar\\AndroidStudioProjects\\FirstWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\kaczmar\\.android\\build-cache\\57df61d676352b75fe437a3a901146e7bbcb2731\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaczmar\\AndroidStudioProjects\\FirstWeather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\kaczmar\\.android\\build-cache\\57df61d676352b75fe437a3a901146e7bbcb2731\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:5:5-39:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kaczmar\.android\build-cache\57df61d676352b75fe437a3a901146e7bbcb2731\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kaczmar\.android\build-cache\3d84bd7e6fcbd3f1033cc466b9f86635c869225c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kaczmar\.android\build-cache\2a93e29773c63e7f915520f77d15abcfa2e11a5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kaczmar\.android\build-cache\019c721314cf7d81c2504bd66419e38723c91f2d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kaczmar\.android\build-cache\64886ab2b6be4425c2df531b8ad54fa6d586ad29\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kaczmar\.android\build-cache\a96f932265bd6ba3ae7e73ac3709e9d730758180\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kaczmar\.android\build-cache\acf7272236906ead39083291774eaa4c31f2ba19\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kaczmar\.android\build-cache\0e5aee03ed050591ac7431faf81816b20ddb17d3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kaczmar\.android\build-cache\96f04802574a41d37582db96070eff21e31863ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kaczmar\.android\build-cache\f50299ede6a91325c657e20c7aa2cd407a078500\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:8:9-37
+	android:supportsRtl
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:9:9-48
+	android:allowBackup
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:7:9-38
+	android:theme
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.firstweather.firstweather.HomeActivity
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.firstweather.firstweather.TomorrowActivity
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:23:9-24:51
+	android:screenOrientation
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.firstweather.firstweather.City
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:26:9-27:51
+	android:screenOrientation
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:26:19-39
+activity#com.firstweather.firstweather.Location
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:29:9-30:51
+	android:screenOrientation
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:29:19-43
+activity#com.firstweather.firstweather.Option
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:32:9-33:51
+	android:screenOrientation
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:32:19-41
+activity#com.firstweather.firstweather.Week
+ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:35:9-36:51
+	android:screenOrientation
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml:35:19-39
+uses-sdk
+INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kaczmar\.android\build-cache\57df61d676352b75fe437a3a901146e7bbcb2731\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kaczmar\.android\build-cache\3d84bd7e6fcbd3f1033cc466b9f86635c869225c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kaczmar\.android\build-cache\2a93e29773c63e7f915520f77d15abcfa2e11a5b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kaczmar\.android\build-cache\019c721314cf7d81c2504bd66419e38723c91f2d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kaczmar\.android\build-cache\64886ab2b6be4425c2df531b8ad54fa6d586ad29\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kaczmar\.android\build-cache\a96f932265bd6ba3ae7e73ac3709e9d730758180\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kaczmar\.android\build-cache\acf7272236906ead39083291774eaa4c31f2ba19\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kaczmar\.android\build-cache\0e5aee03ed050591ac7431faf81816b20ddb17d3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kaczmar\.android\build-cache\96f04802574a41d37582db96070eff21e31863ec\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kaczmar\.android\build-cache\f50299ede6a91325c657e20c7aa2cd407a078500\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kaczmar\.android\build-cache\57df61d676352b75fe437a3a901146e7bbcb2731\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kaczmar\AndroidStudioProjects\FirstWeather\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kaczmar\.android\build-cache\57df61d676352b75fe437a3a901146e7bbcb2731\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kaczmar\.android\build-cache\3d84bd7e6fcbd3f1033cc466b9f86635c869225c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kaczmar\.android\build-cache\2a93e29773c63e7f915520f77d15abcfa2e11a5b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kaczmar\.android\build-cache\019c721314cf7d81c2504bd66419e38723c91f2d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kaczmar\.android\build-cache\64886ab2b6be4425c2df531b8ad54fa6d586ad29\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kaczmar\.android\build-cache\a96f932265bd6ba3ae7e73ac3709e9d730758180\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kaczmar\.android\build-cache\acf7272236906ead39083291774eaa4c31f2ba19\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kaczmar\.android\build-cache\0e5aee03ed050591ac7431faf81816b20ddb17d3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kaczmar\.android\build-cache\96f04802574a41d37582db96070eff21e31863ec\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kaczmar\.android\build-cache\57df61d676352b75fe437a3a901146e7bbcb2731\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kaczmar\.android\build-cache\57df61d676352b75fe437a3a901146e7bbcb2731\output\AndroidManifest.xml:26:9-47
